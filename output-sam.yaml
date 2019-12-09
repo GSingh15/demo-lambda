@@ -7,7 +7,7 @@ Resources:
     Properties:
       Handler: com.example.demo.LambdaHandler::handleRequest
       Runtime: java8
-      CodeUri: s3://gssfo-bucket1/29dbab3407c6b6a8c9d27eca4888c0a0
+      CodeUri: s3://gssfo-bucket1/aa62911ca993f0ce3ec514b9ebd78144
       MemorySize: 1512
       Policies: AWSLambdaBasicExecutionRole
       Timeout: 60
